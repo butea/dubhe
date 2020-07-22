@@ -1,2 +1,2 @@
 # dubhe
-simple api go
+dubhe api go
